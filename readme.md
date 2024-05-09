@@ -10,7 +10,7 @@ Este repositório contém uma variedade de projetos que desenvolvi como parte do
 
 - **Base de Vendas**
   - Descrição: Análise de vendas mensais de uma empresa, utilizando gráficos para identificar tendências e padrões.
-  - Imagem: ![Base de Vendas](Base_de_vendas\Base_Vendas.png)
+  - Imagem: ![Base de Vendas](Base_de_vendas/Base_Vendas.png)
 
 - **RH**
   - Descrição: Análise de dados do departamento de Recursos Humanos, focando em indicadores-chave de desempenho.
@@ -18,11 +18,11 @@ Este repositório contém uma variedade de projetos que desenvolvi como parte do
 
 - **Produção**
   - Descrição: Análise de dados do setor de produção, destacando métricas de eficiência e produtividade.
-  - Imagem: ![Produção](Produção\Produção.jpg)
+  - Imagem: ![Produção](Produção/Produção.jpg)
 
 - **Financeiro**
   - Descrição: Análise financeira da empresa, abordando aspectos como Recebimentos, impostos e análise de lucro.
-  - Imagem: ![Financeiro](Financeiro\financeiro.PNG)
+  - Imagem: ![Financeiro](Financeiro/financeiro.PNG)
 
 ## Contato
 
