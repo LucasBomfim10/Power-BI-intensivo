@@ -28,6 +28,6 @@ Este repositório contém uma variedade de projetos que desenvolvi como parte do
 
 Se estiverem interessados em conversar comigo sobre oportunidades profissionais, por favor, enviem-me um e-mail ou conectem-se comigo através do meu LinkedIn.
 
-![E-mail](lucadez01@gmail.com)
-![LinkedIn](https://www.linkedin.com/in/lucasbomfim10/)
+[E-mail](lucadez01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lucasbomfim10/)
 
