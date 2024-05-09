@@ -10,7 +10,7 @@ Este repositório contém uma variedade de projetos que desenvolvi como parte do
 
 - **Base de Vendas**
   - Descrição: Análise de vendas mensais de uma empresa, utilizando gráficos para identificar tendências e padrões.
-  - Imagem: ![Base de Vendas](Base_de_vendas\Base-Vendas.png)
+  - Imagem: ![Base de Vendas](Base_de_vendas\Base_Vendas.png)
 
 - **RH**
   - Descrição: Análise de dados do departamento de Recursos Humanos, focando em indicadores-chave de desempenho.
