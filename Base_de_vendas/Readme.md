@@ -23,17 +23,6 @@ O objetivo deste projeto é analisar os dados de vendas para identificar padrõe
 5. **Quantidade Vendida por Continente**:
    - As vendas estão distribuídas principalmente entre América do Norte, Europa e América do Sul.
 
-## Visualizações
-
-1. **Faturamento por Mês**:
-   ![Faturamento por Mês](https://path-to-your-image/faturamento_por_mes.png)
-
-2. **Faturamento por Marca**:
-   ![Faturamento por Marca](https://path-to-your-image/faturamento_por_marca.png)
-
-3. **Quantidade Vendida por Continente**:
-   ![Quantidade Vendida por Continente](https://path-to-your-image/quantidade_vendida_por_continente.png)
-
 ## Como Visualizar o Relatório
 
 Para visualizar o relatório completo, você pode abrir o arquivo `.pbix` no Power BI Desktop.
